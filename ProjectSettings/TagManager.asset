@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - scorer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 874832695
+    locked: 0
+  - name: Background
+    uniqueID: 2009912315
+    locked: 0
+  - name: ground
+    uniqueID: 3706005777
+    locked: 0
+  - name: moon
+    uniqueID: 2770004071
+    locked: 0
+  - name: Enemy
+    uniqueID: 3494661131
+    locked: 0
+  - name: Game UI
+    uniqueID: 2885878677
+    locked: 0
+  - name: quit
+    uniqueID: 3957214067
+    locked: 0
